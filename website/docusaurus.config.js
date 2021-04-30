@@ -4,6 +4,14 @@ module.exports = {
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'ja'],
+    localeConfigs: {
+      en: {
+        label: 'English',
+      },
+      ja: {
+        label: '日本語',
+      },
+    }
   },
   title: 'Azure Machine Learning',
   tagline: 'Open source cheat sheets for Azure ML',
