@@ -2,6 +2,9 @@ import React from 'react';
 import clsx from 'clsx';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
+
+import Translate, {translate} from '@docusaurus/Translate';
+
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
@@ -66,7 +69,7 @@ function Home() {
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
+          <p className="hero__subtitle"><Translate>{siteConfig.tagline}</Translate></p>
           <div className={styles.buttons}>
             <Link
               className={clsx(
