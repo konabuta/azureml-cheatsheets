@@ -7,11 +7,11 @@ module.exports = {
   },
   title: 'Azure Machine Learning',
   tagline: 'Open source cheat sheets for Azure ML',
-  url: 'https://github.com/Azure/',
+  url: 'https://github.com/konabuta/',
   baseUrl: '/azureml-cheatsheets/',
   onBrokenLinks: 'ignore',
   favicon: 'img/logo.svg',
-  organizationName: 'Azure', // Usually your GitHub org/user name.
+  organizationName: 'konabuta', // Usually your GitHub org/user name.
   projectName: 'azureml-cheatsheets', // Usually your repo name.
   themeConfig: {
     agolia: {
