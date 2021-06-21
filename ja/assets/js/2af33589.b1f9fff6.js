@@ -1,1 +1,0 @@
-(self.webpackChunkaml_cheatsheet=self.webpackChunkaml_cheatsheet||[]).push([[908],{6353:function(t){"use strict";t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"What is Run History?","permalink":"/ja/blog/run-history"},{"title":"What is a Run Configuration?","permalink":"/ja/blog/run-config"}]}')}}]);

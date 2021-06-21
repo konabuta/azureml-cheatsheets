@@ -4,8 +4,8 @@
   <ShortName>Azure Machine Learning</ShortName>
   <Description>Search Azure Machine Learning</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://github.com/konabuta/img/logo.svg</Image>
-  <Url type="text/html" method="get" template="https://github.com/konabuta//search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://github.com/konabuta//opensearch.xml" />
-  <moz:SearchForm>https://github.com/konabuta//</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://github.com/konabuta/azureml-cheatsheets/img/logo.svg</Image>
+  <Url type="text/html" method="get" template="https://github.com/konabuta//azureml-cheatsheets/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://github.com/konabuta//azureml-cheatsheets/opensearch.xml" />
+  <moz:SearchForm>https://github.com/konabuta//azureml-cheatsheets/</moz:SearchForm>
 </OpenSearchDescription>
