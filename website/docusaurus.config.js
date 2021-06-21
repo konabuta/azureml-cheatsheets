@@ -8,7 +8,8 @@ module.exports = {
   title: 'Azure Machine Learning',
   tagline: 'Open source cheat sheets for Azure ML',
   url: 'https://github.com/Azure/',
-  baseUrl: '/azureml-cheatsheets/',
+  // baseUrl: '/azureml-cheatsheets/',
+  baseUrl: '/',
   onBrokenLinks: 'ignore',
   favicon: 'img/logo.svg',
   organizationName: 'Azure', // Usually your GitHub org/user name.
