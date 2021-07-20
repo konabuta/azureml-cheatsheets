@@ -39,7 +39,7 @@ epoch=1, batch= 6000: loss 1.66
 
 #### Experiment
 
-Experiment とは Run の集合体です。すべての Run は1つの Experiment に属します。通常、 Experiment は例えば「Bert-Large の微調整」といった特定の作業項目に関連付けられており、この目標に向かって反復することで、多数の Run を保有することになります。
+Experiment とは Run の集合体です。すべての Run は1つの Experiment に属します。通常、 Experiment は例えば「Bert-Large のファインチューニング」といった特定の作業項目に関連付けられており、この目標に向かって反復することで、多数の Run を保有することになります。
 
 ### スナップショット
 
